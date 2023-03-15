@@ -64,6 +64,6 @@ export function Home() {
           </Text>
         )}
       />
-    </View>
+    </View> //
   );
 }
